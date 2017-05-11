@@ -1,2 +1,3 @@
 Arquivo pra tentar ignorar
 Alterando o arquivo para teste no GitKraken...
+Mais uma linha para o novo ramo
