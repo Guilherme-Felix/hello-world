@@ -1,3 +1,4 @@
 Arquivo pra tentar ignorar
 Alterando o arquivo para teste no GitKraken...
 Vai dar lenha... branch Master..alterando linha 3
+Mais uma linha para o novo ramo
